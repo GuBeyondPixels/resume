@@ -14,7 +14,7 @@ resume_name:                    "Xinyu Gu 古新宇"
 resume_title:                   "Biography"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "xinyugu@swpu.edu.cn"
+resume_contact_email:           "xinyucs@outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
