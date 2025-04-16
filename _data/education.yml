@@ -1,10 +1,21 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  # uni: Yale University
-  # year: 2004 &mdash; 2008
-  # awards:
-  #   - award: Summa Cumme Laude graduate
-  # summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: PhD in Computer Science
+  uni: University of Nottingham Ningbo China
+  year: 2019-2024
+  award: Most likely to succeed
+
+- degree: Bachelor in Computer Science
+  uni: University of Nottingham UK
+  year: 2016-2017
+  awards: 
+    - award: Zhejiang Provincial Scholarship, 2017
+
+- degree: Bachelor in Computer Science
+  uni: University of Nottingham Ningbo China
+  year: 2014-2018
+  awards:
+    - award: Dean’s Scholarship, 2015-2017
 
 # - degree: High School Diploma
 #   uni: Springfield High School
