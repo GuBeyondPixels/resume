@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Xinyu's Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Xinyu Gu"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "PhD"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "xinyugu@swpu.edu.cn"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
