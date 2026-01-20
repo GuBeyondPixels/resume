@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Xinyu Gu received her B.S. and Ph.D in Computer Science from the University of Nottingham Ningbo China in 2018 and 2025, respectively. In 2025, she became a lecturer at the School of Computer Science and Software Engineering, Southwest Petroleum University, and a member of the \"Image Processing and Parallel Computing\" (IPPC) research team. Her research focuses on computer vision and machine learning, with interests in image object detection, medical image processing, and multimodal learning.  </p>"
+resume_header_intro: "<p>Xinyu Gu received her B.S. and Ph.D in Computer Science from the University of Nottingham in 2018 and 2025, respectively. In 2025, she became a lecturer at the School of Computer Science and Software Engineering, Southwest Petroleum University, and a member of the \"Image Processing and Parallel Computing\" (IPPC) research team. Her research focuses on computer vision and machine learning, with interests in image object detection, medical image processing, and multimodal learning.  </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
