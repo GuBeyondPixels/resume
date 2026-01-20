@@ -1,0 +1,6 @@
+/* Override avatar style to be rectangular */
+.avatar {
+  border-radius: 0 !important;
+  width: 200px !important;
+  height: auto !important;
+}
