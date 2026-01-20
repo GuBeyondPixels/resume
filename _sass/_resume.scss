@@ -163,6 +163,10 @@
     letter-spacing: -.05rem;
     line-height: 1.2;
     color: $primary-color;
+    
+    &.award-title {
+      @include sans_regular;
+    }
   }
 
   .resume-item-details {
